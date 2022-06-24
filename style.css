@@ -1,0 +1,68 @@
+*
+{
+	margin: 0;
+	
+}
+
+h1{
+	color: orange;
+	font-family: 'Old Antic Decorative'; 
+	font-size: 50px;
+	text-align: center;
+	background-color: black;
+	padding: 50px;
+	margin: 0 auto;
+	width: auto;
+	
+}
+
+h2 {
+	width: 44%;
+	color: goldenrod;
+	background-image: url(backgraond.jpg);
+	float: left;
+	text-align: center;
+	
+}
+
+.img {
+	text-align: right;
+	background-image: url(backgraond.jpg) ;
+	width: 50%;
+	float: right;	
+
+	
+}
+
+/*.porgram {
+	width: 50%;
+	color: goldenrod;
+	background-image: url(backgraond.jpg);
+	text-align: left;
+}*/
+.bmar{
+	margin:0px;
+}
+
+.imgclassss {
+	width: 27%;
+}
+/*
+.img2 {
+	text-align: left;
+	background-image: url(backgraond.jpg);
+	font-size: 40px;
+	margin-bottom: 250px;
+	padding-bottom: 500px;
+	padding-top: 500px;
+}
+	 */
+a{
+	color:inherit; 
+   text-decoration: none;
+
+}
+a:hover{
+	color:red; 
+	text-decoration: underline;
+}
